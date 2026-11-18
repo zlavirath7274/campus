@@ -5,13 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Agenda du campus</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/footer.css">
 </head>
 <body>
-    <header class="header">
-        <p class="eyebrow">La vie du campus</p>
-        <h1>Agenda du campus</h1>
-        <p>Les prochains rendez-vous à ne pas manquer.</p>
-    </header>
+    <?php require __DIR__ . '/php/header.php'; ?>
 
     <main>
         <h2>Événements à venir</h2>
@@ -37,8 +35,6 @@
         </section>
     </main>
 
-    <footer>
-        <p>Agenda du campus · Les informations sont susceptibles de changer.</p>
-    </footer>
+    <?php require __DIR__ . '/php/footer.php'; ?>
 </body>
 </html>

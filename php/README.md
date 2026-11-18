@@ -1,1 +1,1 @@
-Prévu pour les pages et traitements PHP à ajouter plus tard.
+Contient les éléments PHP réutilisables, comme `header.php` et `footer.php`.

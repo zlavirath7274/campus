@@ -1,0 +1,13 @@
+.header {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-bottom: 40px;
+    padding: 28px;
+    background: #3a3a3a;
+    color: #f5f5f5;
+}
+
+.eyebrow {
+    color: #c7d2fe;
+    font-weight: bold;
+}
