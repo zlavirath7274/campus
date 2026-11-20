@@ -10,12 +10,8 @@ Pour afficher la page avec PHP, lance un petit serveur local :
 php -S localhost:8000
 ```
 
-Puis ouvre http://localhost:8000.
+Ouvre ensuite http://localhost:8000. Les événements affichés sont des exemples à remplacer avec le temps.
 
-Puis ouvre http://localhost:8000. Les événements affichés sont des exemples à remplacer avec le temps.
-
-
-intitulé 
 
 Sujet : l’agenda du campus
  
